@@ -1,3 +1,1 @@
-# 2Dgame-1
-
-Simple 2D game
+#Simple 2D game
